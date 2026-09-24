@@ -1,46 +1,61 @@
-# Discouse chapter 1 
+Waa kan dukumentigaaga cusub ee la midabka ah qaabkii uu ahaa Cutkii 1aad (Chapter 1), oo ay ku jiraan tusaalooyinka iyo sawirada aad soo dirtay:
+
+---
+
+# Discourse Chapter 2
 
 ## Overview
 
 This practice demonstrates how to:
 
-- Create string variables
-- Combine two string values
-- Store the combined value in another variable
-- Display the result using a Label control
+* Declare and use different data types (strings and integers)
+
+
+* Parse numeric values from text box controls using `int.Parse()`
+
+* Combine multiple string and numeric values with custom separators
+
+
+* Clear form controls and close windows programmatically
+
+
 
 ---
 
-## 1. Creating Variables
+## 1. Creating Variables and Handling Inputs
 
-In this step, three string variables are created to store the user's name information.
+In this step, string and integer variables are declared to capture and store user input from various text boxes. For numeric inputs, the `int.Parse()` method is used to convert text values into integers.
 
-- `FirstName` stores the first name.
-- `SecondName` stores the second name.
-- `FullName` stores the complete name after combining the first and second names.
+* `day_of_week` and `name_of_month` store text information.
 
-The following screenshot shows how the variables are declared in C#.
 
-![Creating Variables](Screenshots/Creating_Variables.png)
+* `numeric_date` and `year` store parsed integer values.
 
-## 2. Concatenating the First Name and Second Name
 
-In this step, the first name and second name are combined using the `+` operator.
+* `fullDate` stores the complete combined string.
 
-A space `" "` is added between the two names so that the final result is displayed correctly.
 
-The result is stored in the `FullName` variable.
 
-The following screenshot shows the string concatenation process.
+The following screenshots show how variables are declared and assigned initial values:
 
-![String Concatenation](Screenshots/String_Concatinatiin.png)
+![Creating Variables](Screenshot 2026-09-23 232246.png)
+![Student Inputs](Screenshot 2026-09-23 235727.png)
 
-## 3. Displaying the Full Name
+## 2. Concatenating Multiple Values
 
-After the first name and second name are combined, the value stored in `FullName` is displayed in a Label control.
+In this step, multiple variables are combined using the `+` operator along with formatting characters like `" / "` or `" : "` so that the final output is structured clearly.
 
-The `.Text` property of the label is used to show the result on the Windows Form.
+The result is stored in a combined string variable (such as `fullDate` or student record strings).
 
-The following screenshot shows how the full name is displayed.
+The following screenshot shows the string concatenation process:
 
-![Display Output](Screenshots/Display_output.png)
+![String Concatenation](Screenshot 2026-09-23 232254.png)
+
+## 3. Displaying Output, Clearing, and Closing
+
+After the values are combined, the final result is displayed in a Label control using its `.Text` property. Additional features such as clearing textboxes (`.Clear()` or `""`) and closing the form (`this.Close()`) are also implemented.
+
+The following screenshots show how the output is displayed and how controls are reset:
+
+![Display Output](Screenshot 2026-09-23 232257.png)
+![Clearing and Closing](Screenshot 2026-09-23 232303.png)
