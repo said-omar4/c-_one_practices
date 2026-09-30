@@ -1,0 +1,10 @@
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Hotel Room Calculator\Hotel Room Calculator\bin\Debug\Hotel Room Calculator.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Hotel Room Calculator\Hotel Room Calculator\bin\Debug\Hotel Room Calculator.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Hotel Room Calculator\Hotel Room Calculator\bin\Debug\Hotel Room Calculator.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Hotel Room Calculator\Hotel Room Calculator\obj\Debug\Hotel Room Calculator.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Hotel Room Calculator\Hotel Room Calculator\obj\Debug\Hotel_Room_Calculator.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Hotel Room Calculator\Hotel Room Calculator\obj\Debug\Hotel_Room_Calculator.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Hotel Room Calculator\Hotel Room Calculator\obj\Debug\Hotel Room Calculator.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Hotel Room Calculator\Hotel Room Calculator\obj\Debug\Hotel Room Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Hotel Room Calculator\Hotel Room Calculator\obj\Debug\Hotel Room Calculator.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Hotel Room Calculator\Hotel Room Calculator\obj\Debug\Hotel Room Calculator.pdb

@@ -78,7 +78,7 @@
             this.lbloutput.BackColor = System.Drawing.SystemColors.ControlLight;
             this.lbloutput.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbloutput.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbloutput.Location = new System.Drawing.Point(41, 293);
+            this.lbloutput.Location = new System.Drawing.Point(41, 290);
             this.lbloutput.Name = "lbloutput";
             this.lbloutput.Size = new System.Drawing.Size(484, 66);
             this.lbloutput.TabIndex = 20;

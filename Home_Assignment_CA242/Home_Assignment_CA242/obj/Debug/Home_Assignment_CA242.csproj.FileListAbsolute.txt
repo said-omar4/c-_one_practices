@@ -9,3 +9,11 @@ C:\C# Projects\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assign
 C:\C# Projects\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.exe
 C:\C# Projects\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.pdb
 C:\C# Projects\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Home_Assignment_CA242\Home_Assignment_CA242\obj\Debug\Home_Assignment_CA242.pdb
