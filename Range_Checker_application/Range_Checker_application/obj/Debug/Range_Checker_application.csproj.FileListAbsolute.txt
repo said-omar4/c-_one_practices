@@ -1,0 +1,11 @@
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\bin\Debug\Range_Checker_application.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\bin\Debug\Range_Checker_application.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\bin\Debug\Range_Checker_application.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\obj\Debug\Range_Checker_application.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\obj\Debug\Range_Checker_application.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\obj\Debug\Range_Checker_application.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\obj\Debug\Range_Checker_application.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\obj\Debug\Range_Checker_application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\obj\Debug\Range_Checker_application.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\obj\Debug\Range_Checker_application.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range_Checker_application\Range_Checker_application\obj\Debug\Range_Checker_application.exe.config

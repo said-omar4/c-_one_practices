@@ -1,0 +1,11 @@
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\bin\Debug\chapter_3_example_!.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\bin\Debug\chapter_3_example_!.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\bin\Debug\chapter_3_example_!.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\obj\Debug\chapter_3_example_!.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\obj\Debug\chapter_3_example__.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\obj\Debug\chapter_3_example__.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\obj\Debug\chapter_3_example_!.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\obj\Debug\chapter_3_example_!.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\obj\Debug\chapter_3_example_!.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\obj\Debug\chapter_3_example_!.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\chapter_3_example_!\chapter_3_example_!\obj\Debug\chapter_3_example_!.exe.config

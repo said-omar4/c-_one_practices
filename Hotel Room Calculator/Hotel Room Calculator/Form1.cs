@@ -20,6 +20,10 @@ namespace Hotel_Room_Calculator
         private void btncalculate_Click(object sender, EventArgs e)
         {
 
+            lblDiscount.BackColor = Color.Red;
+            lblDiscount.ForeColor = Color.Green;
+            this.BackColor = Color.Blue;
+
             try
             {
                 // declaring the varibales to store the data from textbox's

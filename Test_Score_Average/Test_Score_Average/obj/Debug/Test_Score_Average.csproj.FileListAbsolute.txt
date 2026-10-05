@@ -1,0 +1,11 @@
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\bin\Debug\Test_Score_Average.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\bin\Debug\Test_Score_Average.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\bin\Debug\Test_Score_Average.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.exe.config
