@@ -1,0 +1,11 @@
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\bin\Debug\University_registration.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\bin\Debug\University_registration.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\bin\Debug\University_registration.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\obj\Debug\University_registration.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\obj\Debug\University_registration.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\obj\Debug\University_registration.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\obj\Debug\University_registration.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\obj\Debug\University_registration.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\obj\Debug\University_registration.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\obj\Debug\University_registration.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\University_registration\University_registration\obj\Debug\University_registration.exe.config
