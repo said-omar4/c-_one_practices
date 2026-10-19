@@ -1,0 +1,11 @@
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\bin\Debug\Airline Ticked Booking System.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\bin\Debug\Airline Ticked Booking System.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\bin\Debug\Airline Ticked Booking System.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\obj\Debug\Airline_Ticked_Booking_System.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\obj\Debug\Airline_Ticked_Booking_System.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline Ticked Booking System\Airline Ticked Booking System\obj\Debug\Airline Ticked Booking System.exe.config
