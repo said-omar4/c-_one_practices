@@ -1,0 +1,11 @@
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\bin\Debug\Multiple Course Registration System.exe.config
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\bin\Debug\Multiple Course Registration System.exe
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\bin\Debug\Multiple Course Registration System.pdb
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\obj\Debug\Multiple Course Registration System.csproj.AssemblyReference.cache
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\obj\Debug\Multiple_Course_Registration_System.Form1.resources
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\obj\Debug\Multiple_Course_Registration_System.Properties.Resources.resources
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\obj\Debug\Multiple Course Registration System.csproj.GenerateResource.cache
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\obj\Debug\Multiple Course Registration System.csproj.CoreCompileInputs.cache
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\obj\Debug\Multiple Course Registration System.exe
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\obj\Debug\Multiple Course Registration System.pdb
+C:\C# Projects\Multiple Course Registration System\Multiple Course Registration System\obj\Debug\Multiple Course Registration System.exe.config
