@@ -1,0 +1,11 @@
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\bin\Debug\assignment file.exe.config
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\bin\Debug\assignment file.exe
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\bin\Debug\assignment file.pdb
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\obj\Debug\assignment file.csproj.AssemblyReference.cache
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\obj\Debug\assignment_file.Form1.resources
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\obj\Debug\assignment_file.Properties.Resources.resources
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\obj\Debug\assignment file.csproj.GenerateResource.cache
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\obj\Debug\assignment file.csproj.CoreCompileInputs.cache
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\obj\Debug\assignment file.exe
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\obj\Debug\assignment file.pdb
+C:\Users\HP\Videos\c-_one_practices\Assignment files\assignment file\assignment file\obj\Debug\assignment file.exe.config
