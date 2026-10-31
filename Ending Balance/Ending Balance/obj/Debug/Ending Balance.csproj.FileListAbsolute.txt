@@ -1,0 +1,10 @@
+C:\Users\HP\Videos\c-_one_practices\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe.config
+C:\Users\HP\Videos\c-_one_practices\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe
+C:\Users\HP\Videos\c-_one_practices\Ending Balance\Ending Balance\bin\Debug\Ending Balance.pdb
+C:\Users\HP\Videos\c-_one_practices\Ending Balance\Ending Balance\obj\Debug\Ending Balance.csproj.AssemblyReference.cache
+C:\Users\HP\Videos\c-_one_practices\Ending Balance\Ending Balance\obj\Debug\Ending_Balance.Form1.resources
+C:\Users\HP\Videos\c-_one_practices\Ending Balance\Ending Balance\obj\Debug\Ending_Balance.Properties.Resources.resources
+C:\Users\HP\Videos\c-_one_practices\Ending Balance\Ending Balance\obj\Debug\Ending Balance.csproj.GenerateResource.cache
+C:\Users\HP\Videos\c-_one_practices\Ending Balance\Ending Balance\obj\Debug\Ending Balance.csproj.CoreCompileInputs.cache
+C:\Users\HP\Videos\c-_one_practices\Ending Balance\Ending Balance\obj\Debug\Ending Balance.exe
+C:\Users\HP\Videos\c-_one_practices\Ending Balance\Ending Balance\obj\Debug\Ending Balance.pdb
