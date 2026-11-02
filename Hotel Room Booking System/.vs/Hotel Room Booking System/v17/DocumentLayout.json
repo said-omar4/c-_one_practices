@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Hotel Room Booking System\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Videos\\c-_one_practices\\Hotel Room Booking System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0FBC443-7FD7-4147-A4FB-5529C2203322}|Hotel Room Booking System\\Hotel Room Booking System.csproj|C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Hotel Room Booking System\\hotel room booking system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C0FBC443-7FD7-4147-A4FB-5529C2203322}|Hotel Room Booking System\\Hotel Room Booking System.csproj|c:\\users\\hp\\videos\\c-_one_practices\\hotel room booking system\\hotel room booking system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C0FBC443-7FD7-4147-A4FB-5529C2203322}|Hotel Room Booking System\\Hotel Room Booking System.csproj|solutionrelative:hotel room booking system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0FBC443-7FD7-4147-A4FB-5529C2203322}|Hotel Room Booking System\\Hotel Room Booking System.csproj|c:\\users\\hp\\music\\c#_one_practice\\c#_one_practices\\hotel room booking system\\hotel room booking system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0FBC443-7FD7-4147-A4FB-5529C2203322}|Hotel Room Booking System\\Hotel Room Booking System.csproj|C:\\Users\\HP\\Videos\\c-_one_practices\\Hotel Room Booking System\\hotel room booking system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0FBC443-7FD7-4147-A4FB-5529C2203322}|Hotel Room Booking System\\Hotel Room Booking System.csproj|solutionrelative:hotel room booking system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Hotel Room Booking System\\Hotel Room Booking System\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Videos\\c-_one_practices\\Hotel Room Booking System\\Hotel Room Booking System\\Form1.cs",
               "RelativeDocumentMoniker": "Hotel Room Booking System\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Hotel Room Booking System\\Hotel Room Booking System\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Videos\\c-_one_practices\\Hotel Room Booking System\\Hotel Room Booking System\\Form1.cs",
               "RelativeToolTip": "Hotel Room Booking System\\Form1.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwOQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Hotel Room Booking System\\Hotel Room Booking System\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Videos\\c-_one_practices\\Hotel Room Booking System\\Hotel Room Booking System\\Form1.cs",
               "RelativeDocumentMoniker": "Hotel Room Booking System\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Hotel Room Booking System\\Hotel Room Booking System\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\HP\\Videos\\c-_one_practices\\Hotel Room Booking System\\Hotel Room Booking System\\Form1.cs [Design]",
               "RelativeToolTip": "Hotel Room Booking System\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T06:34:10.826Z",

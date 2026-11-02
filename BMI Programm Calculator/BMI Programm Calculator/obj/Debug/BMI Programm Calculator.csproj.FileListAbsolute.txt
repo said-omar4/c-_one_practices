@@ -1,0 +1,10 @@
+C:\C# Projects\BMI Programm Calculator\BMI Programm Calculator\bin\Debug\BMI Programm Calculator.exe.config
+C:\C# Projects\BMI Programm Calculator\BMI Programm Calculator\bin\Debug\BMI Programm Calculator.exe
+C:\C# Projects\BMI Programm Calculator\BMI Programm Calculator\bin\Debug\BMI Programm Calculator.pdb
+C:\C# Projects\BMI Programm Calculator\BMI Programm Calculator\obj\Debug\BMI Programm Calculator.csproj.AssemblyReference.cache
+C:\C# Projects\BMI Programm Calculator\BMI Programm Calculator\obj\Debug\BMI_Programm_Calculator.Form1.resources
+C:\C# Projects\BMI Programm Calculator\BMI Programm Calculator\obj\Debug\BMI_Programm_Calculator.Properties.Resources.resources
+C:\C# Projects\BMI Programm Calculator\BMI Programm Calculator\obj\Debug\BMI Programm Calculator.csproj.GenerateResource.cache
+C:\C# Projects\BMI Programm Calculator\BMI Programm Calculator\obj\Debug\BMI Programm Calculator.csproj.CoreCompileInputs.cache
+C:\C# Projects\BMI Programm Calculator\BMI Programm Calculator\obj\Debug\BMI Programm Calculator.exe
+C:\C# Projects\BMI Programm Calculator\BMI Programm Calculator\obj\Debug\BMI Programm Calculator.pdb
